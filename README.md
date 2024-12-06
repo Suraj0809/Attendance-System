@@ -6,11 +6,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
 
-* [React.js](https://nextjs.org/)
-* [Node](https://nodejs.org/en/docs/)
-* [MySQL](https://www.mysql.com/)
 
 ![](https://github.com/user-attachments/assets/10234ef0-e708-4a7e-b8c7-2067c54f421f)
 ![](https://github.com/user-attachments/assets/9a506dab-f387-465c-98d1-133d45d0b78f)
